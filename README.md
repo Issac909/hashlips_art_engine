@@ -1,3 +1,13 @@
+# USE CTRL + F AND TYPE "replace"
+▬ REPLACE ALL LINES OF CODE CONTAINING "REPLACE" IN THE BELOW FILES WITH CORRESPONDING VALUES TO GET EVERYTHING TO WORK
+► src > config.js
+► build > json > notRevealed.json
+
+▬ FOR THE FOLLOWING, WE NEED TO REPLACE THE IMAGES
+► layers > replace every folder in here with every attribute in our collection
+
+☼ Note, everything stated above summarizes what is below. For more features and detail on the process of setting up the generator, keep reading
+
 # Welcome to HashLips 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
